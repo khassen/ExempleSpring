@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/hibernate-core-3.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/hibernate-entitymanager-3.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/hsqldb-2.2.8.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-aop-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-beans-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-context-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-core-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-expression-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-jdbc-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-orm-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-tx-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-web-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/spring-webmvc-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/stagiaire/workspace1/SpringSample1/lib/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
